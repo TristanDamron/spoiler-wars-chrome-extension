@@ -3,7 +3,7 @@
  * @license GNU General Public License v. 2
 */
 
-chrome.browserAction.onClicked.addListener(function(tab) {
+chrome.browserAction.onUpdated.addListener(function(tab) {
   chrome.tabs.executeScript({
     file: 'spoilers.js' 
   });
