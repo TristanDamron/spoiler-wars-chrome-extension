@@ -23,11 +23,14 @@ var flags = [
     "Luke Skywalker",
     "Han Solo",
     "Leia Skywalker",
+    "Leia Organa",    
     "Anakin Skywalker",
     "Chewbacca",
     "Emporer Palpatine",
     "Darth Plagueis",
     "Poe Dameron",
+    "Snoke",
+    "Emporer",
     "Rey",
     "Finn",
     "The Last Jedi",
@@ -37,7 +40,12 @@ var flags = [
     "Poe",
     "Dameron",
     "Poe Dameron",
-    "Spoilers"
+    "Spoilers",
+    "Pogs",
+    "BB-8",
+    "C3PO",
+    "R2D2",
+    "Adam Driver",
 ];
 
 document.onload = checkPage();
