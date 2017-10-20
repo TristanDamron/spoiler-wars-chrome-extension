@@ -26,5 +26,5 @@
       "default_title": "Check for spoilers."
   },
 
-  "web_accessible_resources": [ "img/ackbar.jpeg" ]
+    "web_accessible_resources": [ "img/ackbar.jpeg", "txt/Anton-Regular.ttf" ]
 }

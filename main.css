@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Anton-Regular";
+    src: url("chrome-extension://__MSG_@@extension_id__/txt/Anton-Regular.ttf");
+}
+
 .box {
     width: 100%;
     height: 100%;
@@ -9,6 +14,7 @@
     z-index: 1000;
     text-align: center;
     font-size: 2.5em;
+    font-family: "Anton-Regular";
 }
 
 

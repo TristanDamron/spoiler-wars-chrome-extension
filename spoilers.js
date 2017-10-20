@@ -6,7 +6,7 @@
 
 var flags = [
     "Star Wars",
-    "Episode 8",
+    "Episode 7",
     "Episode VII",
     "The Force Awakens",
     "Mark Hamil",
@@ -72,7 +72,7 @@ function checkPage() {
 	var continue_button = document.createElement("button");	
 	var escape_message = document.createTextNode("Leave this page!");
 	var continue_message = document.createTextNode("Never tell me the odds!");
-
+	
 	choice_text.innerHTML = "Do you want to go back to a safe place?";
 	choice_text.className = "choice_text";
 	
